@@ -171,7 +171,7 @@ print(f"Accuracy: {score}")
 
 Output: `Accuracy: 0.7045416666666663`
 
-### Based on 1000 simulations, our model is 70% accurate in predicting outcomes of WNBA games.
+Based on 1000 simulations, our model is 70% accurate in predicting outcomes of WNBA games.
 
 ## Part 4: Predicting the Finals
 
