@@ -11,6 +11,11 @@ Install packages
 
 ## Part 1: Cleaning our data
 
+Import pandas
+```py
+import pandas as pd
+```
+
 Read our schedule CSV file and remove the unnecessary columns.
 
 ```py
