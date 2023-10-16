@@ -216,3 +216,13 @@ Output: `Prediction: 1.0`
 This predicts that the home team will win, meaning the Aces take the win for the first game of the finals.
 
 For a more complex prediction for each finals game, reference `predict.ipynb`.
+
+By predicting all potential matchups based on home and away we predict:
+
+| Home                | Away                | Winner           |   
+| ------------------- | ------------------- | ---------------- |
+| Las Vegas Aces      | New York Liberty    | Home (Aces)   |
+| Las Vegas Aces      | New York Liberty    | Home (Aces)   |
+| New York Liberty    | Las Vegas Aces      | Home (Liberty) |
+| New York Liberty    | Las Vegas Aces      | Home (Liberty) |
+| Las Vegas Aces      | New York Liberty    | Home (Aces)   |
