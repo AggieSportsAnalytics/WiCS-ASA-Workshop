@@ -219,10 +219,10 @@ For a more complex prediction for each finals game, reference `predict.ipynb`.
 
 By predicting all potential matchups based on home and away we predict:
 
-| Game | Home                | Away                | Winner           |   
-| --- | ------------------- | ------------------- | ---------------- |
-| 1 | Las Vegas Aces      | New York Liberty    | Home (Aces)   |
-| 2 | Las Vegas Aces      | New York Liberty    | Home (Aces)   |
-| 3 | New York Liberty    | Las Vegas Aces      | Home (Liberty) |
-| 4 | New York Liberty    | Las Vegas Aces      | Home (Liberty) |
-| 5 | Las Vegas Aces      | New York Liberty    | Home (Aces)   |
+| Game | Home                | Away                | Winner           |   Correct? |
+| --- | ------------------- | ------------------- | ---------------- | -----|
+| 1 | Las Vegas Aces      | New York Liberty    | Home (Aces)   |    ✅ |
+| 2 | Las Vegas Aces      | New York Liberty    | Home (Aces)   |    ✅ |
+| 3 | New York Liberty    | Las Vegas Aces      | Home (Liberty) |    ✅ |
+| 4 | New York Liberty    | Las Vegas Aces      | Home (Liberty) |    ❌ |
+| 5 | Las Vegas Aces      | New York Liberty    | Home (Aces)   | |
